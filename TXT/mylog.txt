@@ -8,3 +8,6 @@ ZCZC W00 33 L02 ZOOM related: asdos explanation to install debian
 ZCZC W00 5 L99 Listen to Spotify podcast about operating system
 ZCZC W00 50 L21 VirtualBox: downloading & installing
 ZCZC W00 15 L05 GSGS Related: Searching how to check bios in win 10
+ZCZC W00 20 L05 GSGS Related: Searching about debian guest installation and VM Name
+ZCZC W00 7 L22 Youtube: watching debian guest installation
+ZCZC W00 30 L21 VirtualBox: Creating debian guest
