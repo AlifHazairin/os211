@@ -11,3 +11,4 @@ ZCZC W00 15 L05 GSGS Related: Searching how to check bios in win 10
 ZCZC W00 20 L05 GSGS Related: Searching about debian guest installation and VM Name
 ZCZC W00 7 L22 Youtube: watching debian guest installation
 ZCZC W00 30 L21 VirtualBox: Creating debian guest
+ZCZC W00 12 L99 Udemy: Watching preview video about OS
