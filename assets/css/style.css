@@ -15,7 +15,7 @@
 
 .plainclass1 {
   color:            snow;
-  background-color: crimson;
+  background-color: darkred;
 }
 
 .container {
@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: #222222;
-  color:            #FFFFFF;
+  background-color: papayawhip;
+  color:            firebrick;
   font-size:        0.7em;
 }
 
