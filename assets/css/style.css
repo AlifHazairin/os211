@@ -128,10 +128,10 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
+  color:            cornsilk;
+  text-decoration:  line-through;
   font-size:        1em;
-  font-weight:      bold;
+  font-weight:      500;
 }
 
 pre {
