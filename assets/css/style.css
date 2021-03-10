@@ -14,8 +14,8 @@
 }
 
 .plainclass1 {
-  color:            snow;
-  background-color: darkred;
+  color:            darkmagenta;
+  background-color: seashell;
 }
 
 .container {
@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: snow;
 }
 
 .container a:hover {
@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       seashell;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: papayawhip;
-  color:            firebrick;
+  background-color: crimson;
+  color:            snow;
   font-size:        0.7em;
 }
 
