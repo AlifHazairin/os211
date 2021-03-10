@@ -28,11 +28,12 @@
 
 .container a {
   color: indigo;
+  text-decoration: none;
 }
 
 .container a:hover {
   color: firebrick;
-  font-weight: 600;
+  text-decoration: none;
 }
 
 .row {
@@ -131,7 +132,7 @@
 
 .navbar ul li a:hover {
   color:            snow;
-  text-decoration:  underline overline;
+  text-decoration:  line-through;
   font-size:        1em;
   font-weight:      600;
 }
