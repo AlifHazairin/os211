@@ -22,4 +22,4 @@ ZCZC W02 60  Lo2 Zoom: OS lecture
 ZCZC W02 90  L04 Github page: decorating
 ZCZC W02 30  L01 Scele: answewring pop quiz
 ZCZC W02 90  L21 Virtualbox: doing tasks and messing around
-
+ZCZC W02 45  L06 Reading about internet safety and privacy
