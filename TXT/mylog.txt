@@ -25,3 +25,4 @@ ZCZC W02 90  L21 Virtualbox: doing tasks and messing around
 ZCZC W02 45  L06 Reading about internet safety and privacy
 ZCZC W02 60  L05 GSGS: looking for websites about OS security and such
 ZCZC W02 60  L12 Assignment #2
+ZCZC W02 20  L03 Github related: update myscript.sh
