@@ -32,4 +32,4 @@ ZCZC W03 80  L21 VirtualBox: updating myscript and doing some stuff
 ZCZC W03 30  L06 Reading os-book powerpoint
 ZCZC W03 60  L23 Discord: Discussing assignment
 ZCZC W03 90  L13 Assignment #3
-ZCZC W03 70  L03 Github: Editing mylog
+ZCZC W03 70  L03 Github: Editing mylog and doing other stuff in github
