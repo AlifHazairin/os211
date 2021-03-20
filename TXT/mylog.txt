@@ -18,7 +18,7 @@ ZCZC W01 150 L23 Discord: discussing assignments
 ZCZC W01 240 L11 Assignment #1
 ZCZC W01 30  L08 Trying to install app from terminal
 ZCZC W01 120 L21 VirtualBox: installing debian guest and setting up things
-ZCZC W02 60  Lo2 Zoom: OS lecture
+ZCZC W02 60  L02 Zoom: OS lecture
 ZCZC W02 90  L04 Github page: decorating
 ZCZC W02 30  L01 Scele: answewring pop quiz
 ZCZC W02 90  L21 Virtualbox: doing tasks and messing around
@@ -26,3 +26,10 @@ ZCZC W02 45  L06 Reading about internet safety and privacy
 ZCZC W02 60  L05 GSGS: looking for websites about OS security and such
 ZCZC W02 60  L12 Assignment #2
 ZCZC W02 20  L03 Github related: update myscript.sh
+ZCZC W03 100 L02 Zoom: OS Lecture
+ZCZC W03 50  L05 GSGS: Looking for web
+ZCZC W03 80  L21 VirtualBox: updating myscript and doing some stuff
+ZCZC W03 30  L06 Reading os-book powerpoint
+ZCZC W03 60  L23 Discord: Discussing assignment
+ZCZC W03 90  L13 Assignment #3
+ZCZC W03 70  L03 Github: Editing mylog
