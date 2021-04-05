@@ -34,9 +34,15 @@ ZCZC W03 60  L23 Discord: Discussing assignment
 ZCZC W03 90  L13 Assignment #3
 ZCZC W03 70  L03 Github: Editing mylog and doing other stuff in github
 ZCZC W04 100 L02 Zoom: OS Lecture
-ZCZC W04 40  L14 Assignment #14
+ZCZC W04 40  L14 Assignment #4
 ZCZC W04 60  L05 GSGS: looking for web about week04 OS lecture
 ZCZC W04 15  L06 Reading Os-book chapter 9
 ZCZC W04 20  L21 VirtualBox: fixing error on my own
 ZCZC W04 15  L22 Youtube: watching video from Mr. Yoda Yoda Channel
 ZCZC W04 10  L99 Discussing about assignment on LINE chat
+ZCZC W05 120 L15 Assignment #5
+ZCZC W05 40  L06 Reading Os-book chapter 10
+ZCZC W05 30  L21 VirtualBox: Trying to find the lowest possible RAM
+ZCZC W05 90  L05 GSGS: looking for websites about week05 OS Lecture
+ZCZC W05 10  L22 Youtube: watching video about vm segmentation and other material
+ZCZC W05 50  L08 Trying to enter vlsm.org, havent managed yet
