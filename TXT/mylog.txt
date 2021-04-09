@@ -46,3 +46,9 @@ ZCZC W05 30  L21 VirtualBox: Trying to find the lowest possible RAM
 ZCZC W05 90  L05 GSGS: looking for websites about week05 OS Lecture
 ZCZC W05 10  L22 Youtube: watching video about vm segmentation and other material
 ZCZC W05 50  L08 Trying to enter vlsm.org, havent managed yet
+ZCZC W06 100 L02 Zoom: OS Lecture
+ZCZC W06 40  L16 Assignment #6
+ZCZC W06 45  L06 Reading Os-book chapter 3 & 4
+ZCZC W06 61  L05 GSGS: looking for websites about week06 OS Lecture
+ZCZC W06 47  L26 Movie: relaxing a bit
+ZCZC W06 23  L25 C: study a little
