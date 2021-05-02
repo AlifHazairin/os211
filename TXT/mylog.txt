@@ -1,54 +1,56 @@
-ZCZC W00 15  L03 GitHub related
-ZCZC W00 10  L22 Youtube: study
-ZCZC W00 20  L04 GitHub Pages: creating
-ZCZC W00 15  L01 SCELE related: trying to answer Q02
-ZCZC W00 30  L05 GSGS related
-ZCZC W00 60  L01 SCELE related: keep looking on updates about quiz
-ZCZC W00 33  L02 ZOOM related: asdos explanation to install debian
-ZCZC W00 5   L99 Listen to Spotify podcast about operating system
-ZCZC W00 50  L21 VirtualBox: downloading & installing
-ZCZC W00 15  L05 GSGS Related: Searching how to check bios in win 10
-ZCZC W00 20  L05 GSGS Related: Searching about debian guest installation and VM Name
-ZCZC W00 7   L22 Youtube: watching debian guest installation
-ZCZC W00 30  L21 VirtualBox: Creating debian guest
-ZCZC W00 12  L99 Udemy: Watching preview video about OS
-ZCZC W00 20  L05 GSGS: Searching the quiz solution
-ZCZC W00 20  L01 SCELE related: working on quiz
+ZCZC W00 15    L03 GitHub related
+ZCZC W00 10    L22 Youtube: study
+ZCZC W00 20    L04 GitHub Pages: creating
+ZCZC W00 15    L01 SCELE related: trying to answer Q02
+ZCZC W00 30    L05 GSGS related
+ZCZC W00 60    L01 SCELE related: keep looking on updates about quiz
+ZCZC W00 33    L02 ZOOM related: asdos explanation to install debian
+ZCZC W00 5       L99 Listen to Spotify podcast about operating system
+ZCZC W00 50    L21 VirtualBox: downloading & installing
+ZCZC W00 15    L05 GSGS Related: Searching how to check bios in win 10
+ZCZC W00 20    L05 GSGS Related: Searching about debian guest installation and VM Name
+ZCZC W00 7       L22 Youtube: watching debian guest installation
+ZCZC W00 30    L21 VirtualBox: Creating debian guest
+ZCZC W00 12    L99 Udemy: Watching preview video about OS
+ZCZC W00 20    L05 GSGS: Searching the quiz solution
+ZCZC W00 20    L01 SCELE related: working on quiz
 ZCZC W01 150 L23 Discord: discussing assignments
 ZCZC W01 240 L11 Assignment #1
-ZCZC W01 30  L08 Trying to install app from terminal
+ZCZC W01 30    L08 Trying to install app from terminal
 ZCZC W01 120 L21 VirtualBox: installing debian guest and setting up things
-ZCZC W02 60  L02 Zoom: OS lecture
-ZCZC W02 90  L04 Github page: decorating
-ZCZC W02 30  L01 Scele: answewring pop quiz
-ZCZC W02 90  L21 Virtualbox: doing tasks and messing around
-ZCZC W02 45  L06 Reading about internet safety and privacy
-ZCZC W02 60  L05 GSGS: looking for websites about OS security and such
-ZCZC W02 60  L12 Assignment #2
-ZCZC W02 20  L03 Github related: update myscript.sh
+ZCZC W02 60    L02 Zoom: OS lecture
+ZCZC W02 90    L04 Github page: decorating
+ZCZC W02 30    L01 Scele: answewring pop quiz
+ZCZC W02 90    L21 Virtualbox: doing tasks and messing around
+ZCZC W02 45    L06 Reading about internet safety and privacy
+ZCZC W02 60    L05 GSGS: looking for websites about OS security and such
+ZCZC W02 60    L12 Assignment #2
+ZCZC W02 20    L03 Github related: update myscript.sh
 ZCZC W03 100 L02 Zoom: OS Lecture
-ZCZC W03 50  L05 GSGS: Looking for web
-ZCZC W03 80  L21 VirtualBox: updating myscript and doing some stuff
-ZCZC W03 30  L06 Reading os-book powerpoint
-ZCZC W03 60  L23 Discord: Discussing assignment
-ZCZC W03 90  L13 Assignment #3
-ZCZC W03 70  L03 Github: Editing mylog and doing other stuff in github
+ZCZC W03 50    L05 GSGS: Looking for web
+ZCZC W03 80    L21 VirtualBox: updating myscript and doing some stuff
+ZCZC W03 30    L06 Reading os-book powerpoint
+ZCZC W03 60    L23 Discord: Discussing assignment
+ZCZC W03 90    L13 Assignment #3
+ZCZC W03 70    L03 Github: Editing mylog and doing other stuff in github
 ZCZC W04 100 L02 Zoom: OS Lecture
-ZCZC W04 40  L14 Assignment #4
-ZCZC W04 60  L05 GSGS: looking for web about week04 OS lecture
-ZCZC W04 15  L06 Reading Os-book chapter 9
-ZCZC W04 20  L21 VirtualBox: fixing error on my own
-ZCZC W04 15  L22 Youtube: watching video from Mr. Yoda Yoda Channel
-ZCZC W04 10  L99 Discussing about assignment on LINE chat
+ZCZC W04 40    L14 Assignment #4
+ZCZC W04 60    L05 GSGS: looking for web about week04 OS lecture
+ZCZC W04 15    L06 Reading Os-book chapter 9
+ZCZC W04 20    L21 VirtualBox: fixing error on my own
+ZCZC W04 15    L22 Youtube: watching video from Mr. Yoda Yoda Channel
+ZCZC W04 10    L99 Discussing about assignment on LINE chat
 ZCZC W05 120 L15 Assignment #5
-ZCZC W05 40  L06 Reading Os-book chapter 10
-ZCZC W05 30  L21 VirtualBox: Trying to find the lowest possible RAM
-ZCZC W05 90  L05 GSGS: looking for websites about week05 OS Lecture
-ZCZC W05 10  L22 Youtube: watching video about vm segmentation and other material
-ZCZC W05 50  L08 Trying to enter vlsm.org, havent managed yet
+ZCZC W05 40    L06 Reading Os-book chapter 10
+ZCZC W05 30    L21 VirtualBox: Trying to find the lowest possible RAM
+ZCZC W05 90    L05 GSGS: looking for websites about week05 OS Lecture
+ZCZC W05 10    L22 Youtube: watching video about vm segmentation and other material
+ZCZC W05 50    L08 Trying to enter vlsm.org, havent managed yet
 ZCZC W06 100 L02 Zoom: OS Lecture
-ZCZC W06 40  L16 Assignment #6
-ZCZC W06 45  L06 Reading Os-book chapter 3 & 4
-ZCZC W06 61  L05 GSGS: looking for websites about week06 OS Lecture
-ZCZC W06 47  L26 Movie: relaxing a bit
-ZCZC W06 23  L25 C: study a little
+ZCZC W06 40    L16 Assignment #6
+ZCZC W06 45    L06 Reading Os-book chapter 3 & 4
+ZCZC W06 61    L05 GSGS: looking for websites about week06 OS Lecture
+ZCZC W06 47    L26 Movie: relaxing a bit
+ZCZC W06 23    L25 C: study a little
+ZCZC W07 105 L17 Assignment #7
+ZCZC W07 40    L06 Reading os-book chapter 6, 7 & 8
