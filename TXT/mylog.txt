@@ -54,3 +54,7 @@ ZCZC W06 47    L26 Movie: relaxing a bit
 ZCZC W06 23    L25 C: study a little
 ZCZC W07 105 L17 Assignment #7
 ZCZC W07 40    L06 Reading os-book chapter 6, 7 & 8
+ZCZC W08 210   L18 Assignment #8
+ZCZC W08 35    L06 Reading os-book chapter 5
+ZCZC W08 30    L01 Scele: Doing pop quiz
+ZCZC W08 48    L05 GSGS: Looking for sites
