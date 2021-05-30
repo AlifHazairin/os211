@@ -58,3 +58,9 @@ ZCZC W08 210   L18 Assignment #8
 ZCZC W08 35    L06 Reading os-book chapter 5
 ZCZC W08 30    L01 Scele: Doing pop quiz
 ZCZC W08 48    L05 GSGS: Looking for sites
+ZCZC W10 100   L02 Zoom: OS Lecture
+ZCZC W10 210   L20 Assignment #10 but not yet finished
+ZCZC W10 125   L23 Discord: discussing assignments
+ZCZC W10 97    L20 Assignment #10 finishing
+ZCZC W10 59    L05 GSGS about changing username, uid, group, & hostname
+ZCZC W10 23    L01 Scele
